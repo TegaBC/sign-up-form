@@ -76,10 +76,10 @@ input{
     font-weight: 300;
 }
 
-.main-bot .formButton{
+#reg-button{
     margin-top: 2%;
-    margin-left: 2%;
-    width: 15%;
+    margin-bottom: 4%;
+    width: 20%;
     height: 10%;
     background-color: rgb(175, 215, 248);
     border-radius: 10em;
